@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulthhkur&label=Profile%20views&color=0e75b6&style=flat" alt="rahulthhkur" /> </p>
 
-- 🌱 I’m currently learning ** React **
+- 🌱 I’m currently learning ** Next.js **
 
 - 📫 How to reach me **rthakur1233@gmail.com**
 
